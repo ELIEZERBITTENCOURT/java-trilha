@@ -17,19 +17,20 @@ Navegador na Internet.
 
 ### UML
 
-  +------------------+
-  |     Iphone        |
-  +------------------+
-  | - tocar()         |
-  | - pausar()        |
-  | - selecionarMusica|
-  | - ligar()         |
-  | - atender()       |
-  | - iniciarCorreioVoz|
-  | - exibirPagina()  |
-  | - adicionarNovaAba|
-  | - atualizarPagina |
-  +------------------+
+ ```plaintext
++------------------+
+|     iPhone       |
++------------------+
+| - tocar()        |
+| - pausar()       |
+| - selecionarMusica|
+| - ligar()        |
+| - atender()      |
+| - iniciarCorreioVoz|
+| - exibirPagina() |
+| - adicionarNovaAba|
+| - atualizarPagina |
++------------------+
 
 +----------------------+
 |  Reprodutor Musical   |
@@ -54,6 +55,7 @@ Navegador na Internet.
 | + adicionarNovaAba(): void       |
 | + atualizarPagina(): void        |
 +----------------------------+
+```
 
 ### Explicação
 
