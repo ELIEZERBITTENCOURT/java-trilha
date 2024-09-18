@@ -73,7 +73,7 @@ Criado uma classe chamada "CatalogoLivros" que possui uma lista de objetos do ti
 
 ### 2. Soma de Números
 
-Crie uma classe chamada "SomaNumeros" que possui uma lista de números inteiros como atributo. Implemente os seguintes métodos:
+Criado uma classe chamada "SomaNumeros" que possui uma lista de números inteiros como atributo. Implementado os seguintes métodos:
 
 - `adicionarNumero(int numero)`: Adiciona um número à lista de números.
 - `calcularSoma()`: Calcula a soma de todos os números na lista e retorna o resultado.
