@@ -1,4 +1,4 @@
-package list.Pesquisa;
+package collections.list.Pesquisa;
 
 public class Livro {
   //atributos
